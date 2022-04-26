@@ -1,0 +1,10 @@
+Done:
+1. Create flex CSS for web
+2. Create flex CSS for mobile
+3. Get items from API
+4. Add items from API to grid
+5. Search bar is working, see console
+
+Ongoing:
+1. Replace current grid with results from Search
+2. Access imagesrc.medium for image src for icon
